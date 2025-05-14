@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace IronCs.Enums
 {
 	/// <summary>
-	///		ennumeration which simulates mobile keypad as per its keys 
+	///		ennumeration which simulates mobile keypad as per its keys  
 	/// </summary>
 		public enum Key
 		{
